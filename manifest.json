@@ -1,0 +1,14 @@
+{
+  "name": "RejestFirm",
+  "description": "Navigate to rejest.io",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "contextMenus",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["https://rejestr.io/*"]
+}

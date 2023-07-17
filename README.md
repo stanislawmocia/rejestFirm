@@ -1,0 +1,1 @@
+Rozszerzenie do Chrome, które pozwala szybko wyszukać dane firmy w rejest.io
